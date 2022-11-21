@@ -1,0 +1,36 @@
+{
+  "name": "jpcadastrofront",
+  "version": "0.1.0",
+  "private": true,
+
+  
+    "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/vue-fontawesome": "^3.0.0-5",
+    "axios": "^0.27.2",
+    "bootstrap-vue": "^2.22.0",
+    "core-js": "^3.8.3",
+    "sweetalert2": "^11.4.14",
+    "vue": "^3.2.34",
+    "vue-axios": "^3.4.1",
+    "vue-router": "^4.0.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
