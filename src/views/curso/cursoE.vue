@@ -46,8 +46,8 @@ export default {
 
     mounted(){
         this.obterCursoPorId();
-        this.listarPeriodo();
         this.listarProfessor();
+        this.listarPeriodo();
     },
 
     methods: {
